@@ -8,7 +8,7 @@ var box1, slingShot;
 var backgroundImg, platform;
 
 function preload() {
-  backgroundImg = loadImage("/bg.jpg")
+  backgroundImg = loadImage("bg.jpg")
 }
 
 function setup() {
